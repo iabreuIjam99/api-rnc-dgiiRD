@@ -1,0 +1,6 @@
+{
+  "name": "RD RNC Validator API",
+  "description": "API para validación de RNC de la República Dominicana conectada a la DGII.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
